@@ -1,0 +1,45 @@
+{
+  "title": "SICAI: Stromal-Immune Coupled Attractor Index — Code and Data for Psoriasis Spatial Transcriptomics Analysis",
+  "description": "Computational framework for quantifying stromal-immune coupling architecture from spatial transcriptomics data. This repository contains the complete analysis pipeline for the manuscript 'Geometric Stability Decomposition of Stromal-Immune Coupling Reveals Mast Cell Hub Architecture and Severity-Linked CD8+ TRM Attractor in Psoriasis'.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "[Last Name], [First Name]",
+      "affiliation": "National Taiwan University Hospital",
+      "orcid": "XXXX-XXXX-XXXX-XXXX"
+    },
+    {
+      "name": "Tsai, Tsen-Fang",
+      "affiliation": "National Taiwan University Hospital",
+      "orcid": "XXXX-XXXX-XXXX-XXXX"
+    }
+  ],
+  "keywords": [
+    "spatial transcriptomics",
+    "stromal-immune coupling",
+    "psoriasis",
+    "attractor dynamics",
+    "geometric stability decomposition",
+    "SICAI",
+    "Visium",
+    "cell2location"
+  ],
+  "license": "MIT",
+  "related_identifiers": [
+    {
+      "identifier": "10.1038/s41467-026-XXXXX",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202011",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ],
+  "grants": [
+    {
+      "id": "[grant ID if applicable]"
+    }
+  ]
+}

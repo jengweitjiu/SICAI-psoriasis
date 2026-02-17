@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: "SICAI: Stromal-Immune Coupled Attractor Index"
+message: "If you use this software, please cite both the article and the software."
+type: software
+authors:
+  - family-names: "[Last Name]"
+    given-names: "[First Name]"
+    affiliation: "National Taiwan University Hospital"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+  - family-names: "Tsai"
+    given-names: "Tsen-Fang"
+    affiliation: "National Taiwan University Hospital"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+repository-code: "https://github.com/[username]/SICAI-psoriasis"
+url: "https://github.com/[username]/SICAI-psoriasis"
+license: MIT
+version: "1.0.0"
+date-released: "2026-02-17"
+keywords:
+  - spatial transcriptomics
+  - stromal-immune coupling
+  - psoriasis
+  - attractor dynamics
+  - geometric stability decomposition
+  - mast cells
+  - tissue-resident memory T cells
+  - computational biology
+abstract: >-
+  Computational framework for quantifying stromal-immune coupling 
+  architecture from spatial transcriptomics data. SICAI integrates 
+  coupling strength, specificity, and attractor stability to map 
+  cell-cell interaction landscapes. Applied to psoriasis, it reveals 
+  a mast cell hub switch, severity-linked CD8+ TRM coupling, and 
+  high-escape-energy attractors explaining disease chronicity.
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "[Last Name]"
+      given-names: "[First Name]"
+    - family-names: "Tsai"
+      given-names: "Tsen-Fang"
+  title: >-
+    Geometric Stability Decomposition of Stromal-Immune Coupling 
+    Reveals Mast Cell Hub Architecture and Severity-Linked CD8+ TRM 
+    Attractor in Psoriasis
+  journal: "Nature Communications"
+  year: 2026
